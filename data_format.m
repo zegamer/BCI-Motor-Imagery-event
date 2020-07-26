@@ -1,6 +1,9 @@
 %{
 READ THIS
 ---------------------------------------------------------------------------
+Input data: A02T.mat
+Output data: mi_event
+
 > This code extracts individual MI events and it's respective classes 
 and adds them to a struct variable along with some other data.
 
