@@ -7,7 +7,7 @@ BCI Motor Imagery is a program made by 2 students for a course at the University
 The program is still under construction and these are the tasks that need to be completed.
 - [x] ~~Pre-process data (no artefact, left/right hand classes only, data structuring)~~
 - [x] ~~CSP transformation~~
-- [ ] Condense data to train an Ensemble/NNet
+- [x] ~~Condense data to train an Ensemble/NNet~~
 - [ ] Stream chunks of data to simulate online BCI
 
 
